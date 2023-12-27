@@ -1,0 +1,4 @@
+#ifndef __GITM_DAEMON_INCLUDED_H__
+#define __GITM_DAEMON_INCLUDED_H__
+
+#endif // __GITM_DAEMON_INCLUDED_H__
